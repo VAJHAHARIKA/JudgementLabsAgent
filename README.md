@@ -1,6 +1,5 @@
-project:
-
-  title: Context-Aware Q&A Agent
+project: Context-Aware Q&A Agent
+  Context-Aware Q&A Agent
   submission_for: Judgment Labs AI Engineer Assessment
   
   author:
